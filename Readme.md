@@ -1,5 +1,6 @@
 ## CSCI-3 Project #2
 #### By: Dustin Stewart
+### NOTE: I added these files to Github [here](https://github.com/dustin-stew/CSCI3_Project2/) if that's easier. I also made a JavaFX version for fun [here](https://github.com/dustin-stew/PlaylistMaker5000).
 ### Structure
 [Playlist.java](src/Playlist.java) - This  file serves as the entrypoint for the application. Compile and run from this file.
 ###### Helpful notes
